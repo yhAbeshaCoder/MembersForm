@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -14,7 +14,7 @@ namespace MembersForm
     {
         public Form1()
         {
-            
+            InitializeComponent();
         }
     }
 }
